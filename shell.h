@@ -1,4 +1,4 @@
-#ifndef SHELL_H
+#ifndef SHELL__H
 #define SHELL_H
 
 #ifndef BUF_SIZE
